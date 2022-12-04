@@ -2,7 +2,7 @@
 ### 1292807289 monthCaesar 25 6
 ### 1149946220 lisensiPotato
 ### 5004111804 lifetimeStay 12 3
-### 5004111804 monthStay 25 6
+### 5004111804 monthStay 25 7
 ### 2003456447 lifetimeSword 4 3
 ### 2100915216 lisensiFahmissh
 ### 1056867095 lisensiBapakguru
