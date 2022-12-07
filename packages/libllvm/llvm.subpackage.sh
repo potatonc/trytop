@@ -1,0 +1,20 @@
+TERMUX_SUBPKG_INCLUDE="
+bin/bugpoint
+bin/llc
+bin/lli
+bin/llvm*
+bin/obj2yaml
+bin/opt
+bin/sancov
+bin/sanstats
+bin/verify-uselistorder
+bin/yaml2obj
+share/opt-viewer
+share/man/man1/llc.1
+share/man/man1/lli.1
+share/man/man1/llvm*
+share/man/man1/opt.1
+share/man/man1/bugpoint.1
+share/man/man1/tblgen.1
+"
+TERMUX_SUBPKG_DESCRIPTION="Modular compiler and toolchain technologies executables"
