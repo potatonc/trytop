@@ -22,7 +22,7 @@
 ### 1486717655 lisensiAjunvpn
 ### 1414481394 monthRisq 18 7
 ### 1792127445 monthDaffa 7 5
-### 913242993 lifetimeSpdvpn 50 7
+### 913242993 lifetimeSpdvpn 50 8
 ### 1720886391 lisensiMrlol
 ### 5252985937 lisensiCsvpnstore
 ### 5392169093 monthPwrwb 17 13
